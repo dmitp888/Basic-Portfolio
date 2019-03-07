@@ -12,6 +12,7 @@ body {
   h2 {
     color: #4aaaa5; 
     }
+
   .mainBox {
     width: 960px;
     height: 670px;
@@ -27,7 +28,8 @@ body {
       border: 1px;
        border-color :#dddddd;
       align-self: 
-    }
+  }
+
 .navigationlinks {
   position: absolute;
   top: 8px;
@@ -95,4 +97,4 @@ input[type=submit]:hover {
 
 
 
-}
+
